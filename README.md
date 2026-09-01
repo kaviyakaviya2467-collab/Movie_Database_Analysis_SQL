@@ -32,3 +32,12 @@ The `movies` table contains:
 - HAVING
 - Aggregate Functions
 
+##  Result
+
+Successfully practiced SQL queries to:
+- Retrieve and filter movie data
+- Sort and group records
+- Calculate movie counts
+- Analyze actors, directors, languages, and release years
+- Extract meaningful insights from the dataset
+
